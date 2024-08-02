@@ -1,0 +1,1999 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  background-color: #010730;
+  width: 100%;
+
+}
+
+
+nav ul {
+
+  display: flex;
+  width: 90%;
+  justify-content: space-around;
+  display: flex;
+  font-size: 20px;
+  align-items: center;
+
+
+}
+
+nav {
+  width: 100%;
+}
+
+nav ul li {
+
+  list-style: none;
+
+}
+
+a {
+  color: #fff;
+  margin-left: 30px;
+  text-decoration: none;
+}
+
+
+.papita {
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  padding: 12px;
+  background: linear-gradient(to right, #774AD9, #595FD9, #187FD9, #118CD9);
+
+}
+
+
+.logo {
+  color: #fff;
+  width: 90%;
+  margin-left: 20px;
+  font-size: 20px;
+  margin-top: 8px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+.imagen {
+
+  display: flex;
+  width: 100px;
+  margin-left: 100px;
+
+}
+
+
+
+.valerieca {
+  display: flex;
+}
+
+.her1 {
+  background-color: #201d3b;
+  width: 50%;
+  color: #fff;
+  height: 650px;
+}
+
+h2 {
+  text-align: center;
+  width: 90px;
+  font-size: 80px;
+  margin-left: 30%;
+  padding-top: 20%;
+
+}
+
+.para {
+  margin-top: 30px;
+  width: 70%;
+  margin-left: 30%;
+}
+
+.milk {
+  margin-top: 30px;
+  width: 33%;
+  margin-left: 30%;
+  border: 1px solid rgb(194, 186, 186);
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.btn1 {
+  border-radius: 5px;
+  padding: 12px;
+  border: none;
+  color: rgb(219, 0, 121);
+}
+
+.btn2 {
+  border-radius: 5px;
+  padding: 13px;
+  border: 1px solid white;
+  background-color: transparent;
+  color: #fff;
+ 
+
+}
+
+.her2 {
+  background-image: url(../assets/images/hojasFondo.jpg);
+  height: 650px;
+  width: 50%;
+  background-size: cover;
+
+}
+
+.valen {
+  margin-left: 20%;
+  width: 35%;
+  margin-top: 15%;
+
+}
+
+
+
+
+.image {
+
+  width: 400px;
+  height: 110%;
+  margin-top: 140px;
+  margin-left: 200px;
+}
+
+
+.parrafo {
+
+  font-size: 15px;
+  text-align: center;
+  margin-right: 40px;
+  color: #000000;
+  margin-top: 8px;
+
+}
+
+
+
+
+
+.per {
+  color: #000000;
+  font-size: 45px;
+  margin-bottom: 10px;
+}
+
+
+.valericita {
+  display: flex;
+  font-size: 250%;
+}
+
+h3 {
+  margin-left: 80%;
+  margin-top: 3%;
+  color: #D91A96;
+}
+
+.computer {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 15%;
+}
+
+h5 {
+  margin-left: 10%;
+  margin-top: 19%;
+  color: #ff0fab;
+
+}
+
+#parrafocito {
+  margin-top: 23px;
+  width: 70%;
+  font-size: 23px;
+  color: #393939;
+}
+
+h6 {
+  margin-top: 19px;
+  color: #ff00a6;
+}
+
+.papa {
+  margin-top: 5%;
+  color: rgb(255, 0, 204);
+  flex-direction: column;
+
+}
+
+.coco {
+  display: flex;
+  color: #202020;
+  font-size: 25px;
+  margin-left: 9%;
+  position: relative;
+  bottom: 40px;
+
+}
+
+
+
+
+
+article {
+  background-color: #201d3b;
+  height: 800px;
+
+}
+
+.gafitas {
+  margin-top: 2%;
+  margin-left: 34%;
+  width: 40%;
+  color: #ffffff;
+}
+
+
+h4 {
+  margin-top: 4%;
+  text-align: center;
+  font-size: 45px;
+  color: #ffff;
+
+}
+
+
+
+.botoncito {
+
+  background-color: purple;
+  color: #fff;
+  border-radius: 5px;
+  height: 50px;
+  width: 140px;
+  margin-top: 8px;
+  font-size: 15px;
+  margin-left: 25px;
+
+
+}
+
+
+
+
+.btn {
+
+  background-color: rgb(0, 9, 111);
+  color: #fff;
+  border-radius: 5px;
+  height: 50px;
+  width: 140px;
+  margin-top: 10px;
+  font-size: 15px;
+  margin-left: 27px;
+
+
+
+
+}
+
+
+
+.val {
+  display: flex;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  height: 100px;
+  width: 100%;
+  color: #000000;
+}
+
+.val footer {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+  color: #000000;
+  margin-left: 80px;
+  font-size: 20px;
+
+}
+
+strong {
+  color: #ee00da;
+  font-family: monospace;
+}
+
+
+.parfa {
+  color: #000000;
+  margin-top: 60px;
+
+}
+
+.plata {
+  display: flex;
+
+}
+
+.mariposa {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 40px;
+  font-size: 25px;
+
+}
+
+.Hojas {
+
+  display: flex;
+  align-items: center;
+
+
+
+
+}
+
+.valencita {
+
+  margin-top: 40px;
+  width: 20%;
+  background-color: #fff;
+  border-radius: 10px;
+  height: 550px;
+  margin-left: 15%;
+
+
+}
+
+.callelo {
+  display: flex;
+  color: #202020;
+  font-size: 15px;
+  margin-left: 13%;
+  position: relative;
+  bottom: 20px;
+
+}
+
+.peprosito {
+  display: flex;
+  color: #ff00ea;
+  font-size: 15px;
+  margin-left: 13%;
+  position: relative;
+  bottom: 20px;
+
+}
+
+#click {
+
+  display: flex;
+  color: #000000;
+  font-size: 15px;
+  margin-bottom: 30px;
+
+
+
+}
+
+.ba {
+
+  display: flex;
+  color: #000000;
+  font-size: 15px;
+  margin-left: 17px;
+}
+
+.valeriecl {
+  color: #a02481;
+  padding: 10px;
+  text-align: center;
+  font-size: 23px;
+
+
+}
+
+.titulo {
+
+  padding: 10px;
+  background-color: #ececec;
+  color: #000000;
+  font-size: 35px;
+  margin-bottom: 10px;
+  display: flex;
+  padding-left: 100px;
+  font-family: sans-serif;
+}
+
+
+
+.small {
+  margin-left: 8px;
+  font-size: 10px;
+  color: #000000;
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma;
+}
+
+.small-text {
+
+  display: flex;
+  margin-left: 8px;
+  font-size: 10px;
+  color: #000000;
+  font-family: Verdana, Geneva, Tahoma;
+
+}
+
+.text {
+  margin-left: 8px;
+  font-size: 10px;
+  color: #000000;
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma;
+}
+
+.valerieli {
+  margin-top: 5%;
+  color: rgb(255, 0, 191);
+  flex-direction: column;
+  margin-left: 40px;
+
+
+
+}
+
+
+
+.valenrie {
+
+  width: 20%;
+  background-color: #fff;
+  border-radius: 10px;
+  height: 550px;
+  margin-left: 5%;
+  margin-top: 50px;
+
+}
+
+.colorcitoa {
+  color: rgb(11, 25, 184);
+  font-size: 23px;
+
+}
+
+strong {
+  color: #c7248e;
+
+}
+
+.valenmayor {
+  margin-top: 5%;
+  color: rgb(34, 34, 34);
+  flex-direction: column;
+  margin-left: 40px;
+
+}
+
+@media (max-width:1279px) {
+
+
+  .botoncito {
+
+    background-color: purple;
+    color: #fff;
+    border-radius: 5px;
+    height: 50px;
+    width: 140px;
+    font-size: 15px;
+    margin-left: 5%;
+    
+
+  }
+
+ 
+  .btn {
+
+    background-color: rgb(0, 9, 111);
+    color: #fff;
+    border-radius: 5px;
+    height: 50px;
+    width: 140px;
+    margin-left: 5%;
+    font-size: 15px;
+    
+
+
+
+  }
+
+  
+  .Hojas {
+
+    display: flex;
+    align-items: center;
+
+  
+  }
+  
+  .valencita {
+  
+    margin-top: 40px;
+    width: 25%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 550px;
+    margin-left: 10%;
+
+  
+  
+  }
+
+  .parrafo {
+
+    font-size: 12px;
+    text-align: center;
+    margin-right: 40px;
+    color: #000000;
+    margin-top: 10px;
+  
+  }
+
+  .titulo {
+    font-size: 30px;
+  }
+
+  .valenrie {
+
+    width: 25%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 550px;
+    margin-left: 3%;
+    margin-top: 40px;
+  
+  }
+  
+  .callelo {
+    display: flex;
+    color: #202020;
+    font-size: 15px;
+    margin-left: 13%;
+    position: relative;
+    bottom: 20px;
+  
+  }
+  
+  .peprosito {
+    display: flex;
+    color: #ff00ea;
+    font-size: 15px;
+    margin-left: 13%;
+    position: relative;
+    bottom: 20px;
+  
+  }
+  
+  #click {
+  
+    display: flex;
+    color: #000000;
+    font-size: 15px;
+    margin-bottom: 30px;
+  
+
+  }
+  
+  .ba {
+  
+    display: flex;
+    color: #000000;
+    font-size: 15px;
+    margin-left: 10px;
+  }
+  
+  .valeriecl {
+    color: #a02481;
+    padding: 10px;
+    text-align: center;
+    font-size: 23px;
+  
+  
+  }
+
+  .valerieli {
+    margin-top: 5%;
+    color: rgb(255, 0, 191);
+    font-size: 15px;
+    
+  }
+
+  .valenmayor {
+    margin-top: 5%;
+    color: rgb(34, 34, 34);
+    flex-direction: column;
+    margin-left: 40px;
+  
+  }
+  header {
+    display: flex;
+    height: 60px;
+    align-items: center;
+    background-color: #010730;
+    width: 100%;
+  
+  }
+  
+  
+  nav ul {
+  
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+  
+  
+  }
+  
+  nav {
+    width: 100%;
+  }
+  
+  nav ul li {
+  
+    list-style: none;
+  
+  }
+  
+  a {
+    color: #fff;
+    margin-left: 30px;
+    text-decoration: none;
+  }
+  
+  
+  .papita {
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    background: linear-gradient(to right, #774AD9, #595FD9, #187FD9, #118CD9);
+  
+  }
+
+
+
+  
+}
+
+
+
+
+@media (max-width:920px) {
+
+  header {
+    display: flex;
+    height:80px;
+    align-items: center;
+    background-color: #010730;
+    width: 228%;
+
+
+  }
+
+
+  nav ul {
+
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+
+
+  }
+
+  nav {
+    width: 100%;
+  }
+
+  nav ul li {
+
+    list-style: none;
+
+  }
+
+  a {
+    color: #fff;
+    margin-left: 30px;
+    text-decoration: none;
+  }
+
+
+  .papita {
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    background: linear-gradient(to right, #774AD9, #595FD9, #187FD9, #118CD9);
+
+  }
+
+
+  .logo {
+    color: #fff;
+    width: 90%;
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+
+
+
+  .imagen {
+
+    display: flex;
+    width: 125px;
+    margin-left: 150px;
+
+  }
+
+
+  .para {
+    margin-top: 30px;
+    width: 70%;
+    margin-left: 20%;
+  }
+
+  .valerieca {
+    display: flex;
+    width: 228%;
+  }
+
+  .valen {
+    margin-top: 110px;
+    width: 25%;
+
+  }
+
+  .her1 {
+    background-color: #201d3b;
+    width: 100%;
+    color: #fff;
+    height: 820px;
+  }
+
+  .her2 {
+    background-image: url(../assets/images/hojasFondo.jpg);
+    height: 820px;
+    width: 100%;
+
+
+  }
+
+  h2 {
+    text-align: center;
+    width: 90px;
+    font-size: 85px;
+    margin-left: 20%;
+    padding-top: 20%;
+
+  }
+
+  .milk {
+    margin-top: 30px;
+    width: 22%;
+    margin-left: 20%;
+    border: 1px solid rgb(194, 186, 186);
+    padding: 5px;
+    border-radius: 4px;
+
+  }
+
+  .para {
+    font-size: 30px;
+  }
+
+  .btn2 {
+    border-radius: 5px;
+    padding: 13px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: #fff;
+    width: 100px;
+
+  }
+
+  .valericita {
+    display: flex;
+    font-size: 250%;
+
+  }
+
+  .valen {
+    width: 30%;
+    margin-top: 10%;
+
+  }
+
+  h3 {
+
+    margin-top: 7%;
+    color: #D91A96;
+    text-align: center;
+    margin-left: 150%;
+    font-size: 70px;
+  }
+
+
+  .computer {
+    width: 130%;
+    margin-left: 50%;
+    margin-top: 40%;
+  }
+
+  h5 {
+    margin-left: 155%;
+    margin-top: 45%;
+    color: #ff0fab;
+    width: 200%;
+    font-size: 45px;
+
+  }
+
+  #parrafocito {
+    margin-top: 23px;
+    width: 180%;
+    font-size: 40px;
+    color: #393939;
+    margin-left: 155%;
+  }
+
+  h6 {
+    margin-top: 19px;
+    color: #ff00a6;
+    margin-left: 155%;
+    width: 100%;
+    font-size: 50px;
+  }
+
+
+  .mariposa {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    font-size: 25px;
+
+
+  }
+
+
+  .gafitas {
+    margin-top: 2%;
+    margin-left: 40%;
+    width: 25%;
+    color: #ffffff;
+  }
+
+
+  h4 {
+    margin-top: 4%;
+    text-align: center;
+    font-size: 45px;
+    color: #ffff;
+
+  }
+
+  article {
+
+    width: 228%;
+    height: 980px;
+
+  }
+
+  .plata {
+    display: flex;
+
+
+
+
+
+  }
+
+  .mariposa {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60%;
+    margin-right: 10px;
+    font-size: 25px;
+
+
+
+
+  }
+
+  .val {
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    height: 160px;
+    width: 400%;
+    color: #000000;
+
+    width: 150%;
+
+
+
+  }
+
+  .val footer {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    color: #000000;
+    margin-left: 50px;
+    font-size: 25px;
+
+  }
+
+  #click {
+
+    display: flex;
+    color: #000000;
+    font-size: 20px;
+    margin-bottom: 30px;
+
+
+
+
+  }
+
+  .ba {
+
+    display: flex;
+    color: #000000;
+    font-size: 25px;
+    margin-left: 27px;
+  }
+
+
+  .valerieli {
+    margin-top: 5%;
+    color: rgb(255, 0, 191);
+    flex-direction: column;
+    margin-left: 40px;
+    font-size: 25px;
+
+
+
+  }
+
+  .valencita {
+
+    margin-top: 40px;
+    width: 22%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 700px;
+
+
+
+  }
+
+  .papa {
+    margin-top: 5%;
+    color: rgb(255, 0, 204);
+    flex-direction: column;
+    margin-left: 150%;
+    width: 120%;
+
+
+  }
+
+  .coco {
+    font-size: 35px;
+    margin-left: 48px;
+  }
+
+  .valenrie {
+
+    width: 22%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 700px;
+    margin-left: 5%;
+    margin-top: 50px;
+
+  }
+
+
+  .titulo {
+
+    padding: 10px;
+    background-color: #ececec;
+    color: #000000;
+    font-size: 50px;
+    margin-bottom: 10px;
+    display: flex;
+    padding-left: 170px;
+    font-family: sans-serif;
+  }
+
+
+
+  .small {
+    margin-left: 8px;
+    font-size: 15px;
+    color: #000000;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma;
+  }
+
+  .small-text {
+
+    display: flex;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma;
+
+  }
+
+  .text {
+    margin-left: 8px;
+    font-size: 15px;
+    color: #000000;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma;
+  }
+
+  .valerieli {
+    margin-top: 5%;
+    color: rgb(255, 0, 191);
+    flex-direction: column;
+    margin-left: 40px;
+
+
+
+  }
+
+  .callelo {
+    display: flex;
+    color: #202020;
+    font-size: 25px;
+    margin-left: 13%;
+    position: relative;
+    bottom: 20px;
+
+  }
+
+  .parrafo {
+
+    font-size: 20px;
+    text-align: center;
+    margin-right: 40px;
+    color: #000000;
+    margin-top: 8px;
+
+  }
+
+  .peprosito {
+    display: flex;
+    color: #ff00ea;
+    font-size: 25px;
+    margin-left: 13%;
+    position: relative;
+    bottom: 20px;
+
+  }
+
+  .valenmayor {
+    margin-top: 5%;
+    color: rgb(34, 34, 34);
+    flex-direction: column;
+    margin-left: 40px;
+    font-size: 25px;
+
+  }
+
+  .botoncito {
+
+    background-color: purple;
+    color: #fff;
+    border-radius: 5px;
+    height: 50px;
+    width: 140px;
+    margin-top: 30px;
+    font-size: 15px;
+    margin-left: 70px;
+
+  }
+
+
+
+
+  .btn {
+
+    background-color: rgb(0, 9, 111);
+    color: #fff;
+    border-radius: 5px;
+    height: 50px;
+    width: 140px;
+    margin-top: 25px;
+    font-size: 15px;
+    margin-left: 70px;
+
+
+  }
+
+}
+
+
+@media (max-width:768px) {
+
+  header {
+    display: flex;
+    height: 60px;
+    align-items: center;
+    background-color: #010730;
+    width: 223%;
+
+
+  }
+
+  nav ul {
+
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+
+
+  }
+
+  nav {
+    width: 100%;
+  }
+
+  nav ul li {
+
+    list-style: none;
+
+  }
+
+  a {
+    color: #fff;
+    margin-left: 30px;
+    text-decoration: none;
+  }
+
+
+  .papita {
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    background: linear-gradient(to right, #774AD9, #595FD9, #187FD9, #118CD9);
+
+  }
+
+
+  .logo {
+    color: #fff;
+    width: 90%;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+
+
+
+  .imagen {
+
+    display: flex;
+    width: 100px;
+    margin-left: 100px;
+
+  }
+
+
+
+  .valerieca {
+    display: flex;
+    width: 223%;
+  }
+
+  .her1 {
+    background-color: #201d3b;
+    width: 50%;
+    color: #fff;
+    height: 650px;
+  }
+
+  .her2 {
+    background-image: url(../assets/images/hojasFondo.jpg);
+    height: 650px;
+    width: 50%;
+
+
+  }
+
+  h2 {
+    text-align: center;
+    width: 90px;
+    font-size: 80px;
+    margin-left: 20%;
+    padding-top: 20%;
+
+  }
+
+  .milk {
+    margin-top: 30px;
+    width: 40%;
+    margin-left: 20%;
+    border: 1px solid rgb(194, 186, 186);
+    padding: 5px;
+    border-radius: 4px;
+
+  }
+
+  .btn2 {
+    border-radius: 5px;
+    padding: 14px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: #fff;
+    width: 100px;
+
+  }
+
+  .valerieli {
+    margin-top: 5%;
+    color: rgb(255, 0, 191);
+
+    margin-left: 40px;
+    font-size: 15px;
+
+
+
+  }
+
+  .valen {
+    margin-left: 20%;
+    width: 45%;
+    margin-top: 15%;
+
+  }
+
+
+  .valericita {
+    display: flex;
+    font-size: 250%;
+  }
+
+  h3 {
+    margin-left: 130%;
+    margin-top: 5%;
+    color: #D91A96;
+    font-size: 45px;
+  }
+
+  .computer {
+    width: 130%;
+    margin-left: 20%;
+    margin-top: 50%;
+  }
+
+  h5 {
+    margin-left: 80%;
+    margin-top: 35%;
+    color: #ff0fab;
+    width: 300px;
+    font-size: 35px;
+
+
+  }
+
+  #parrafocito {
+    margin-top: 25px;
+    width: 100%;
+    font-size: 23px;
+    color: #393939;
+    margin-left: 300px;
+  }
+
+  h6 {
+    margin-top: 19px;
+    color: #ff00a6;
+    margin-left: 70%;
+    width: 300px;
+    font-size: 40px;
+  }
+
+  .papa {
+    margin-top: 10%;
+    color: rgb(255, 0, 204);
+    flex-direction: column;
+    margin-left: 70%;
+
+  }
+
+  .coco {
+    display: flex;
+    color: #202020;
+    font-size: 25px;
+    margin-left: 10%;
+    position: relative;
+    bottom: 40px;
+    width: 230px;
+
+
+  }
+  .valen{
+    width: 240px;
+  }
+
+  .parrafo {
+
+    font-size: 20px;
+    text-align: center;
+    margin-right: 40px;
+    color: #000000;
+
+
+  }
+
+
+  article {
+    background-color: #201d3b;
+    width: 223%;
+
+  }
+
+  .gafitas {
+    margin-top: 2%;
+    margin-left: 34%;
+    width: 40%;
+    color: #ffffff;
+  }
+
+
+  h4 {
+    margin-top: 4%;
+    text-align: center;
+    font-size: 45px;
+    color: #ffff;
+
+  }
+
+  .Hojas {
+
+    display: flex;
+    align-items: center;
+  }
+
+  .valencita {
+
+    margin-top: 40px;
+    width: 22%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 550px;
+    margin-left: 15%;
+
+
+  }
+
+  .callelo {
+    display: flex;
+    color: #202020;
+    font-size: 15px;
+    margin-left: 13%;
+    position: relative;
+    bottom: 20px;
+
+  }
+
+  .peprosito {
+    display: flex;
+    color: #f11ddf;
+    font-size: 15px;
+    margin-left: 13%;
+    position: relative;
+    bottom: 20px;
+
+  }
+
+  #click {
+
+    display: flex;
+    color: #000000;
+    font-size: 15px;
+    margin-bottom: 30px;
+
+
+
+  }
+
+  .ba {
+
+    display: flex;
+    color: #000000;
+    font-size: 15px;
+    margin-left: 10px;
+  }
+
+  .valeriecl {
+    color: #a02481;
+    padding: 10px;
+    text-align: center;
+    font-size: 23px;
+
+
+  }
+
+  .titulo {
+
+    padding: 10px;
+    background-color: #ececec;
+    color: #000000;
+    font-size: 35px;
+    margin-bottom: 10px;
+    display: flex;
+    padding-left: 100px;
+    font-family: sans-serif;
+  }
+
+
+
+  .small {
+    margin-left: 8px;
+    font-size: 15px;
+    color: #000000;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma;
+  }
+
+  .small-text {
+
+    display: flex;
+    margin-left: 8px;
+    font-size: 12px;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma;
+
+  }
+
+  .text {
+    margin-left: 5px;
+    font-size: 12px;
+    color: #000000;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma;
+  }
+
+  .valerieli {
+    margin-top: 2%;
+    color: rgb(255, 0, 191);
+    flex-direction: column;
+    margin-left: 40px;
+
+
+
+  }
+
+
+
+  .valenrie {
+
+    width: 22%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 550px;
+    margin-left: 5%;
+    margin-top: 50px;
+
+  }
+
+  .colorcitoa {
+    color: rgb(11, 25, 184);
+    font-size: 23px;
+
+  }
+
+  strong {
+    color: #c7248e;
+
+  }
+
+  .valenmayor {
+    margin-top: 5%;
+    color: rgb(34, 34, 34);
+    flex-direction: column;
+    margin-left: 40px;
+    font-size: 15px;
+
+  }
+
+
+  .botoncito {
+
+    background-color: purple;
+    color: #fff;
+    border-radius: 5px;
+    height: 50px;
+    width: 140px;
+    margin-top: 8px;
+    font-size: 15px;
+    margin-left: 10px;
+
+  }
+
+
+
+
+  .btn {
+
+    background-color: rgb(0, 9, 111);
+    color: #fff;
+    border-radius: 5px;
+    height: 50px;
+    width: 140px;
+    margin-top: 10px;
+    font-size: 15px;
+    margin-left: 10px;
+
+
+  }
+
+  .parrafo {
+
+    font-size: 15px;
+    text-align: center;
+    color: #000000;
+    margin-top: 5px;
+
+  }
+
+  .val {
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    color: #000000;
+    width: 750px;
+  }
+
+  .val footer {
+    display: flex;
+    align-items: center;
+    color: #000000;
+    margin-left: 100px;
+    font-size: 20px;
+
+
+  }
+
+  strong {
+    color: #ee00da;
+    font-family: monospace;
+  }
+
+
+  .parfa {
+    color: #000000;
+    margin-top: 60px;
+    margin-left: 300px;
+
+  }
+
+  .plata {
+    display: flex;
+  }
+
+  .mariposa {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2px;
+    font-size: 25px;
+
+
+
+  }
+
+}
+
+@media (max-width:480px) {
+
+  header {
+    display: flex;
+    height: 60px;
+    align-items: center;
+    background-color: #010730;
+    width: 260%;
+
+  }
+
+
+  nav ul {
+
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+
+
+  }
+
+
+
+  nav ul li {
+
+    list-style: none;
+
+  }
+
+  a {
+    color: #fff;
+    margin-left: 10px;
+    text-decoration: none;
+  }
+
+
+  .papita {
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    background: linear-gradient(to right, #774AD9, #595FD9, #187FD9, #118CD9);
+
+  }
+
+
+  .logo {
+    color: #fff;
+    width: 90%;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+
+  .small{
+    margin-left: 10px;
+  }
+
+  .imagen {
+
+    display: flex;
+    width: 100px;
+    margin-left: 100px;
+
+  }
+
+
+  .valen{
+    width: 220px;
+    
+  }
+
+
+  .valerieca {
+    display: flex;
+    width: 260%;
+  }
+
+  .her1 {
+    background-color: #201d3b;
+    width: 80%;
+    color: #fff;
+    height: 650px;
+  }
+
+  h2 {
+    text-align: center;
+    width: 90px;
+    font-size: 80px;
+    margin-left: 30%;
+    padding-top: 20%;
+  }
+
+  .para {
+    margin-top: 30px;
+    width: 70%;
+    margin-left: 30%;
+  }
+
+  .milk {
+    margin-top: 30px;
+    width: 47%;
+    margin-left: 30%;
+    border: 1px solid rgb(194, 186, 186);
+    padding: 5px;
+    border-radius: 4px;
+  }
+
+  .btn1 {
+    border-radius: 5px;
+    padding: 12px;
+    border: none;
+    color: rgb(219, 0, 121);
+  }
+
+  .btn2 {
+    border-radius: 5px;
+    padding: 13px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: #fff;
+
+  }
+
+  .her2 {
+    background-image: url(../assets/images/hojasFondo.jpg);
+    height: 650px;
+    width: 80%;
+
+  }
+
+  h5 {
+    margin-left: 25%;
+    margin-top: 35%;
+    color: #ff0fab;
+    font-size: 35px;
+
+  }
+
+  #parrafocito {
+    margin-top: 23px;
+    width: 100%;
+    font-size: 23px;
+    color: #393939;
+    margin-left: 100px;
+  }
+
+  h6 {
+    margin-top: 15px;
+    color: #ff00a6;
+    margin-left: 100px;
+    font-size: 35px;
+
+  }
+
+  .papa {
+    margin-top: 5%;
+    color: rgb(255, 0, 204);
+    flex-direction: column;
+    margin-left: 100px;
+
+  }
+
+  .coco {
+    display: flex;
+    color: #202020;
+    font-size: 25px;
+    margin-left: 12%;
+    position: relative;
+    bottom: 40px;
+
+  }
+
+
+  .valen {
+    margin-top: 120px;
+  }
+
+  h3 {
+    margin-left: 80%;
+    margin-top: 3%;
+    color: #D91A96;
+    font-size: 60px;
+  }
+
+  .computer {
+    width: 100%;
+    margin-left: 10%;
+    margin-top: 45%;
+  }
+
+  article {
+    background-color: #201d3b;
+    height: 500%;
+    width: 260%;
+
+  }
+
+  .gafitas {
+    margin-top: 2%;
+    margin-left: 34%;
+    width: 40%;
+    color: #ffffff;
+  }
+
+
+  h4 {
+    margin-top: 4%;
+    text-align: center;
+    font-size: 45px;
+    color: #ffff;
+
+  }
+
+  .Hojas {
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .valencita {
+
+    margin-top: 20px;
+    width: 30%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 580px;
+    margin-left: 5%;
+    flex-direction: column;
+  }
+
+  .valenrie {
+
+    width: 30%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 580px;
+    margin-left: 5%;
+    margin-top: 20px;
+
+  }
+
+  .callelo {
+    display: flex;
+    color: #202020;
+    font-size: 15px;
+    margin-left: 13%;
+    position: relative;
+    bottom: 20px;
+
+
+  }
+
+  .peprosito {
+    display: flex;
+    color: #ff00ea;
+    font-size: 15px;
+    margin-left: 13%;
+    position: relative;
+    bottom: 20px;
+
+
+  }
+
+
+  .valenmayor {
+    margin-top: 5%;
+    color: rgb(34, 34, 34);
+    flex-direction: column;
+    margin-left: 40px;
+    font-size: 25px;
+  
+  }
+
+
+  .botoncito {
+
+    background-color: purple;
+    color: #fff;
+    border-radius: 5px;
+    height: 50px;
+    width: 140px;
+    margin-top: 25px;
+    font-size: 15px;
+    margin-left: 25px;
+
+  }
+
+  .ba{
+    margin-left: 15px;
+  }
+
+
+  .btn {
+
+    background-color: rgb(0, 9, 111);
+    color: #fff;
+    border-radius: 5px;
+    height: 50px;
+    width: 140px;
+    margin-top: 10px;
+    font-size: 15px;
+    margin-left: 25px;
+
+
+  }
+
+  .val {
+    display: flex;
+    margin-left: 100px;
+    background-color: rgb(255, 255, 255);
+    width: 200%;
+    color: #000000;
+
+
+  }
+
+  .val footer {
+    display: flex;
+    align-items: center;
+    color: #000000;
+    margin-left: 80px;
+    font-size: 20px;
+
+  }
+
+  strong {
+    color: #ee00da;
+    font-family: monospace;
+  }
+
+
+  .parfa {
+    color: #000000;
+    margin-top: 60px;
+
+  }
+
+  .plata {
+    display: flex;
+
+
+  }
+
+  .mariposa {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    font-size: 25px;
+
+  }
+
+  .titulo {
+
+    padding: 10px;
+    background-color: #ececec;
+    color: #000000;
+    font-size: 35px;
+    margin-bottom: 10px;
+    display: flex;
+    padding-left: 130px;
+    font-family: sans-serif;
+    
+  }
+
+}
